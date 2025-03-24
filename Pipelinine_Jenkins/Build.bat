@@ -1,0 +1,3 @@
+@echo off
+echo Building Java Project...
+exit /b 0
